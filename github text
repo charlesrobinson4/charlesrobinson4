@@ -1,0 +1,24 @@
+Last login: Sun Jul 14 22:13:32 on console
+Charlies-MBP:~ charlie$ 
+Charlies-MBP:~ charlie$ <!DOCTYPE html>
+-bash: !DOCTYPE: event not found
+Charlies-MBP:~ charlie$ <html>
+-bash: syntax error near unexpected token `newline'
+Charlies-MBP:~ charlie$ <body>
+-bash: syntax error near unexpected token `newline'
+Charlies-MBP:~ charlie$ <h1>Hello World</h1>
+-bash: syntax error near unexpected token `newline'
+Charlies-MBP:~ charlie$ <p>I'm hosted with GitHub Pages.</p>
+> </body>
+> </html>
+> 
+> 
+> 
+
+
+
+
+
+
+
+
